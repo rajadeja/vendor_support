@@ -14,7 +14,7 @@
  * limitations under the License
  */
 
-package com.zen.support.preferences;
+package com.potato.support.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -26,7 +26,7 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.support.v7.preference.*;
 
-import com.zen.support.R;
+import com.potato.support.R;
 
 public class CustomSeekBarPreference extends Preference implements SeekBar.OnSeekBarChangeListener {
     private final String TAG = getClass().getName();

@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.zen.support.preferences;
+package com.potato.support.preferences;
 
 import android.content.Context;
 import android.support.v14.preference.SwitchPreference;
